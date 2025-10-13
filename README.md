@@ -1,34 +1,88 @@
-<h1 align="center">Hi 👋, I'm Abel Adamu Shumet</h1>
-<h3 align="center">Data Science Enthusiast | AI & Machine Learning Explorer | Problem Solver</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abeladamushumet&label=Profile%20views&color=0e75b6&style=flat" alt="abeladamushumet" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abeladamushumet" alt="abeladamushumet" /></a> </p>
-
-- I’m currently working on **Object Detection System – designed, trained, and evaluated deep learning models to identify and classify objects in images using YOLO**
-
-- I’m currently learning **Advanced Machine Learning techniques, Deep Learning frameworks, Natural Language Processing(NLP), Data Visualization tools**
-
-- All of my projects are available at [https://abel-portfolio-n0al.onrender.com/](https://abel-portfolio-n0al.onrender.com/)
-
-- Ask me about **Machine Learning algorithms, Data preprocessing and cleaning, Model evaluation and optimization, Python programming**
-
-- How to reach me **abeladamushumet@gmail.com**
-
-- Fun fact **I enjoy turning complex data into actionable insights and love tackling challenging problems with innovative solutions.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abeladamushumet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abeladamushumet/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/abeladamushumet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abeladamushumet" height="30" width="40" /></a>
-<a href="https://instagram.com/ab_el_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab_el_16" height="30" width="40" /></a>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abeladamushumet/abeladamushumet/main/banner.png" alt="Abel Adamu Shumet Banner" width="800"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# 👋 Hi, I’m **Abel Adamu Shumet**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abeladamushumet&show_icons=true&locale=en&layout=compact" alt="abeladamushumet" /></p>
+💼 **Data Science & Machine Learning Practitioner**  
+🎓 **10 Academy Trainee (Cohort B5)** | **Former INSA Intern**  
+💡 Passionate about building intelligent systems powered by **Natural Language Processing (NLP)** and **Computer Vision (CV)**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abeladamushumet&show_icons=true&locale=en" alt="abeladamushumet" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abeladamushumet&" alt="abeladamushumet" /></p>
+## 🧠 What I’m Working On
+
+🚀 **Advanced Machine Learning & Deep Learning Applications**  
+📊 **Power BI Dashboards** for Business Intelligence  
+🤖 **End-to-End AI Solutions** that solve real-world problems
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-4285F4?logo=google&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Featured Projects
+
+| 🔍 Project | 💡 Description | 🧰 Tech Stack |
+|-------------|----------------|---------------|
+| 💳 [Credit Card Fraud Detection](https://github.com/abeladamushumet/Credit-Card-Fraud-Detection) | Detects fraudulent transactions using supervised ML algorithms | Python, Scikit-learn, Pandas |
+| 📈 [Stock Market Trend Prediction](https://github.com/abeladamushumet/Stock-Market-Trend-Prediction) | Predicts stock trends using ML and time-series models | Python, LSTM, NumPy |
+| 🏦 [Ethiopian Banks Review Analysis](https://github.com/abeladamushumet/Ethiopian-Banks-Review-Analysis) | NLP-based sentiment analysis of Google Play Store reviews | Python, NLTK, WordCloud |
+| 🧾 [Insurance Risk Analytics](https://github.com/abeladamushumet/Insurance-Risk-Analytics) | Predictive modeling of insurance premiums and claims | Python, Scikit-learn, Power BI |
+| 🛍️ [Amharic E-commerce Data Extractor](https://github.com/abeladamushumet/Amharic-Ecommerce-Data-Extractor) | NER model for Amharic text extraction from Telegram | Python, spaCy, Transformers |
+| 🧮 [Credit Risk Probability Model](https://github.com/abeladamushumet/Credit-Risk-Model) | Credit scoring model using RFM features and alternative data | Python, XGBoost |
+| 🤖 [Intelligent Complaint Analysis (RAG Chatbot)](https://github.com/abeladamushumet/Intelligent-Complaint-Analysis) | RAG chatbot for analyzing financial complaints | Python, LangChain, OpenAI API |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abeladamushumet&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abeladamushumet&theme=radical" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **Deep Learning Architectures** (Transformers, GANs)
+- **MLOps** and Model Deployment with FastAPI & Docker
+- **Data Engineering** tools (Airflow, dbt, Dagster)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/abeladamushumet" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abeladamushumet" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:abeladamushumet@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> *“Turning data into decisions and ideas into intelligent systems.”*  
+— **Abel Adamu Shumet**
