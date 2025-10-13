@@ -1,8 +1,3 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abeladamushumet/abeladamushumet/main/banner.png" alt="Abel Adamu Shumet Banner" width="800"/>
-</p>
-
 # 👋 Hi, I’m **Abel Adamu Shumet**
 
 💼 **Data Science & Machine Learning Practitioner**  
