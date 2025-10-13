@@ -42,9 +42,8 @@
 | 🔍 Project | 💡 Description | 🧰 Tech Stack |
 |-------------|----------------|---------------|
 | 💳 [Credit Card Fraud Detection](https://github.com/abeladamushumet/Credit-Card-Fraud-Detection) | Detects fraudulent transactions using supervised ML algorithms | Python, Scikit-learn, Pandas |
-| 📈 [Stock Market Trend Prediction](https://github.com/abeladamushumet/Stock-Market-Trend-Prediction) | Predicts stock trends using ML and time-series models | Python, LSTM, NumPy |
-| 🏦 [Ethiopian Banks Review Analysis](https://github.com/abeladamushumet/Ethiopian-Banks-Review-Analysis) | NLP-based sentiment analysis of Google Play Store reviews | Python, NLTK, WordCloud |
-| 🧾 [Insurance Risk Analytics](https://github.com/abeladamushumet/Insurance-Risk-Analytics) | Predictive modeling of insurance premiums and claims | Python, Scikit-learn, Power BI |
+| 📈 [Stock Market Trend Prediction](https://github.com/abeladamushumet/portfolio-forecasting-gmf)) | Predicts stock trends using ML and time-series models | Python, LSTM, NumPy |
+| 🧾 [Insurance Risk Analytics](https://github.com/abeladamushumet/Insurance-Risk-Analytics) | Predictive modeling of insurance premiums and claims | Python, Scikit-learn |
 | 🛍️ [Amharic E-commerce Data Extractor](https://github.com/abeladamushumet/Amharic-Ecommerce-Data-Extractor) | NER model for Amharic text extraction from Telegram | Python, spaCy, Transformers |
 | 🧮 [Credit Risk Probability Model](https://github.com/abeladamushumet/Credit-Risk-Model) | Credit scoring model using RFM features and alternative data | Python, XGBoost |
 | 🤖 [Intelligent Complaint Analysis (RAG Chatbot)](https://github.com/abeladamushumet/Intelligent-Complaint-Analysis) | RAG chatbot for analyzing financial complaints | Python, LangChain, OpenAI API |
